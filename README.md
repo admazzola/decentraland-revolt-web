@@ -1,13 +1,13 @@
 ![](https://decentraland.org/favicon.ico)
 
-# Decentraland ReVolt ⚡ Alternate Client
+# Decentraland Sample ⚡ Alpha Client
 
 These centralized websites were taken down.
 - World Viewer: https://decentraland.org/app
 - Builder: https://decentraland.org/builder
 
 
-This alternate client uses the same underlying land data and smartcontracts for Decentraland. This desktop-based (Electron) open-source client will include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.
+This sample client uses the same underlying land data and smartcontracts for Decentraland. This desktop-based (Electron) open-source client will include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.
 
 ![](http://i.imgur.com/mmotzLwr.png)
 
@@ -16,9 +16,9 @@ This alternate client uses the same underlying land data and smartcontracts for 
 
 The bronze age client is just a closed source (pre-compiled??) Unity scenegraph with no desktop client and no local networking.
 
-## Revolt Client Spec 
+##   Client Spec 
 
-The Revolt client will be desktop based, using Electron, and it will use AFrame to render the AFrame script that has been associated to each plot of land on IPFS (and/or other mediums such as bittorrent and centrally hosted land nodes).  
+The   client will be desktop based, using Electron, and it will use AFrame to render the AFrame script that has been associated to each plot of land on IPFS (and/or other mediums such as bittorrent and centrally hosted land nodes).  
 
 ## Running the Desktop Client   
 
